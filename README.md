@@ -75,11 +75,13 @@ Hey yo'! I'm Jorge and physicist, so yeah I'm one of those geeks.
 ## ⚡ Top Languages
 
 <p align="center">
-	<a href="https://github.com/Jorbanejah">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorbanejah&langs_count=8&layout=compact" alt="Jorbanejah">
-	</a>
-	<br/>
-<br/>
+  <a href="https://github.com/Jorbanejah">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorbanejah&langs_count=8&layout=compact" alt="Jorbanejah">
+  </a>
+</p>
+
+**Nota:** Este gráfico muestra los lenguajes más usados en tus repositorios públicos. No refleja tu nivel de experiencia, sino la proporción de código por lenguaje.
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
